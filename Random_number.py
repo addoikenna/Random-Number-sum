@@ -42,8 +42,3 @@ while list_sum != num1:
     i += 1
 print('The random numbers are = {}'.format(my_list))
 print(f'The sum of the numbers is {list_sum}')
-
-
-'''jay = [3, 5, 7]
-a = sum(jay)
-print(a)'''
